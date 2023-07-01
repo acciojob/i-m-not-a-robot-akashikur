@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
         const images = document.querySelectorAll("img");
         const resetButton = document.getElementById("reset");
-        const verifyButton = document.getElementById("verify");
+        const verifyButton = document.getElementById("btn");
         const messagePara = document.getElementById("para");
         let selectedImages = [];
 
